@@ -1,0 +1,4 @@
+Git Repository for Reflection answers
+
+subl txt.txt will open text files to modify for versions and input, this is pretty darn cool!
+
